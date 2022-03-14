@@ -27,9 +27,10 @@ https://zcgnotes.com/%E8%A7%A3%E6%B1%BAandroid-studio-button%E7%84%A1%E6%B3%95%E
 <br/>
 5 ) 成果
 <br/>
-我上傳了這個apk檔，供大家下載到手機自己玩。
-<br/>
 <img src="https://github.com/katejou/color_match/blob/main/photo_video/Screenshot.jpg" width="200"/>
-
+https://user-images.githubusercontent.com/58361477/158130880-91de1a78-dbc0-4dd3-9ad8-439f8915edd3.mp4
+<br/>
+6 ) 分享
+我上傳了這個apk檔，供大家下載到手機自己玩。
 <br/>
 在手機中開啟它，它將會建立成為一個應用程式。(當然Android會警告你，因為我沒有將這個APP上架，沒有經過官方的)
