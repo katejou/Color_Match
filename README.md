@@ -28,12 +28,11 @@ https://user-images.githubusercontent.com/58361477/158130880-91de1a78-dbc0-4dd3-
 這三個檔案，我放在code_file的資料夾裡面
 <br/>
 
-5 ) 參考
-themes.xml的內容，我參考了︰
+5 ) themes.xml的內容，我參考了︰
 <br/>
 https://zcgnotes.com/%E8%A7%A3%E6%B1%BAandroid-studio-button%E7%84%A1%E6%B3%95%E6%94%B9%E8%AE%8A%E8%83%8C%E6%99%AF%E9%A1%8F%E8%89%B2/
 <br/>
-的內容，來修改。
+來修改。
 <br/>
 
 6 ) 分享
