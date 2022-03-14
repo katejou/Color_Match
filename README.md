@@ -1,4 +1,6 @@
 # color_match
-A little game on phone (click photo to see the youtube video)
-[![Watch the video](https://i9.ytimg.com/vi/FmNL0E-srvQ/maxresdefault.jpg?time=1647239700000&sqp=CJTEu5EG&rs=AOn4CLCUSARxNzrXmM3Hh6O1d3pkp--OWg)](https://www.youtube.com/watch?v=FmNL0E-srvQ)
+A little game on phone 
+
+製作方法︰下載 JDK 和 Android Stutdio
+修改環境變數︰系統>關於>進階系統設定>進階>環境變數>
 
