@@ -8,7 +8,7 @@ https://user-images.githubusercontent.com/58361477/158130880-91de1a78-dbc0-4dd3-
 
 製作方法︰
 <br/><br/>
-1 ) 下載 JDK 和 Android Stutdio
+1 ) 下載 JDK 和 Android Studio
 <br/>
 
 2 ) 修改環境變數︰系統>關於>進階系統設定>進階>環境變數>
