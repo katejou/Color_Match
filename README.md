@@ -1,4 +1,4 @@
-# color_match
+# Color Match
 A little Android Application by Java
 
 
@@ -6,7 +6,7 @@ https://user-images.githubusercontent.com/58361477/158130880-91de1a78-dbc0-4dd3-
 
 
 
-製作方法︰
+How to make it︰
 <br/><br/>
 1 ) Download JDK and Android Studio
 <br/>
